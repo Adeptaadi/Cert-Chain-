@@ -6,6 +6,7 @@
 [![Storage](https://img.shields.io/badge/Storage-IPFS%20Pinata-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://pinata.cloud/)
 [![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MongoDB-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Google Drive](https://img.shields.io/badge/Project%20Resources-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1Qw3DRJNPHg0UUw3Wn4dtf1ALQTRDjtUV?usp=drive_link)
 
 > **Research Paper Presented at:**  
 > **IEEE IGNITE 2.0: Student Research & Professional Awareness Conference**  
@@ -333,6 +334,20 @@ npm run dev
    - Navigate to the public **Verification Portal**.
    - Upload any document or paste a SHA-256 hash.
    - The portal re-calculates the digest and performs an on-chain check in `< 300 ms`, returning full authenticity and validity status.
+
+---
+
+## 📂 Project Resources (Paper, PPT & Supporting Docs)
+
+All research paper documents, conference presentation slides, supporting diagrams, and supplementary resources are available on Google Drive:
+
+> 🔗 **[Access Google Drive Folder → CertChain Project Resources](https://drive.google.com/drive/folders/1Qw3DRJNPHg0UUw3Wn4dtf1ALQTRDjtUV?usp=drive_link)**
+
+This folder contains:
+- 📄 IEEE conference research paper (PDF)
+- 📊 Presentation slides (PPT/PDF)
+- 🗂️ Supplementary diagrams and architecture visuals
+- 📸 Project demo screenshots and benchmarks
 
 ---
 
